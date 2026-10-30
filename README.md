@@ -92,6 +92,3 @@ python -m http.server 5500
 
 Then open <http://localhost:5500>. The frontend sends API requests to the gateway at `http://localhost:9000`.
 
-## Security
-
-Do not commit passwords, signing keys, access tokens, or populated environment files. Configure local credentials through environment variables. If a credential was ever committed or shared, rotate it; deleting it from the latest file alone does not remove it from Git history.
