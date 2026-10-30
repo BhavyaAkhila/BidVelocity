@@ -24,7 +24,6 @@ BidVelocity is an online auction marketplace. Users can browse listings, registe
 
 - Frontend: HTML, CSS, and vanilla JavaScript
 - Backend: Java 21, Spring Boot, and Spring Cloud
-- Service discovery: Netflix Eureka
 - Database: MySQL
 - API routing: Spring Cloud Gateway
 
