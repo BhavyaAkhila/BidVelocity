@@ -1,0 +1,27 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Java / Maven build output
+**/target/
+**/build/
+
+# IDE and operating system files
+.metadata/
+**/.metadata/
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+*.iml
+*.class
+*.log
+Thumbs.db
+Desktop.ini
